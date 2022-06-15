@@ -9,6 +9,7 @@ Toy Store API is built based on a simple business logic where:
 * Only Admins(shop owner and/or team leaders) can administer(create, get, and delete) their Employees and 
 * Both Admins and Employees can create, get, and delete their toy Items.
 
+
 # Setting Up
 
 ```shell
@@ -21,11 +22,6 @@ $ pip install -r requirements.txt
 $ python3 run.py
 
 ``` 
-
-# Test Results
-
-Every endpoint has been tested using Postman, please refer to the following link: <br>
-https://drive.google.com/file/d/1mZRyBekf1CaMxB3HbHEGvCJVQaJgGgSX/view?usp=sharing
 
 
 # Sample Requests
@@ -42,3 +38,8 @@ Next, visit http://127.0.0.1:5000/employee to create an account. A user is requi
 
 ![image](https://user-images.githubusercontent.com/49329136/173754750-abb221e8-bd0a-4206-af0d-cd63b59cce8a.png)
 
+
+# Test Results
+
+Every endpoint has been tested using Postman, please refer to the following link: <br>
+https://drive.google.com/file/d/1mZRyBekf1CaMxB3HbHEGvCJVQaJgGgSX/view?usp=sharing
